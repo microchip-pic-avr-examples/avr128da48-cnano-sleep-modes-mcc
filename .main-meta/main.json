@@ -1,0 +1,67 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.1.0",
+        "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-sleep-modes-mcc",
+        "version": "1.0.0 ",
+        "displayName": " AVR128DA48 Sleep modes showcase ",
+        "projectName": "avr128da48-cnano-sleep-modes-mcc",
+        "shortDescription": "This program showcases the different sleep modes of the AVR DA microcontroller.",
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=5.40"
+        },
+        "compiler": [
+			{
+				"name": "XC8",
+				"semverRange": "^2.20.0"
+			}
+		],
+        "dfp": {
+            "name": "AVR-Dx_DFP",
+            "semverRange": "1.4.75"
+        },
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=3.95"
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "AVR128DA48",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "subcategories": [
+            "MCC",
+            [
+               "Peripherals", "USART"
+            ] 			
+        ],
+        "peripherals": [
+            "USART"
+        ],
+        "keywords": [
+            "Sleep",
+            "Power",
+			"Modes",
+			"Deep"
+        ],
+		"additionalData": {
+			"longDescription": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.portal.fileRef",
+				"content": {
+					"metaDataVersion": "1.0.0",
+					"fileName": "./README.md",
+					"mimeType": "text/markdown"
+				}
+			}
+		}
+	}
+}
