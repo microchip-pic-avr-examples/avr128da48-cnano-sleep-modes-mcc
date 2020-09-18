@@ -3,7 +3,7 @@
 
 # AVR128DA48 Sleep modes example - MCC 
 
-This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for testing the sleep modes available to the AVR DA device. . 
+This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for testing the sleep modes available to the AVR DA device. 
 
 ## Related Documentation
 This code was developed for the application note [AVR DA Low Power Features and Sleep modes](). 
