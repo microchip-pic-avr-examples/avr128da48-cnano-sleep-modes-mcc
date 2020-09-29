@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-sleep-modes-mcc",
-        "version": "1.0.0 ",
+        "version": "1.0.0",
         "displayName": "Sleep Modes usage",
         "projectName": "avr128da48-cnano-sleep-modes-mcc",
         "shortDescription": "This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for testing the sleep modes available to the AVR DA device.",
